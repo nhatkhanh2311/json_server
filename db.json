@@ -1,8 +1,11 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "Lion", "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Lion_%28Panthera_leo%29_male_6y.jpg/200px-Lion_%28Panthera_leo%29_male_6y.jpg", "date": "01-01-2024", "number": 300 },
+    { "id": 2, "title": "Tiger", "image": "https://files.worldwildlife.org/wwfcmsprod/images/Tiger_resting_Bandhavgarh_National_Park_India/hero_small/6aofsvaglm_Medium_WW226365.jpg", "date": "01-01-2024", "number": 300 },
+    { "id": 3, "title": "Jaguar", "image": "https://www.livingdesert.org/site/assets/files/4757/jaguar-1.1000x800se.jpg", "date": "01-01-2024", "number": 300 },
+    { "id": 4, "title": "Leopard", "image": "https://c02.purpledshub.com/uploads/sites/62/2010/07/GettyImages-160869327-0f0732f.jpg?webp=1&w=1200", "date": "01-01-2024", "number": 300 },
+    { "id": 5, "title": "Cheetah", "image": "https://optimise2.assets-servd.host/maniacal-finch/production/animals/cheetah-01-01.jpg?w=1200&auto=compress%2Cformat&fit=crop&dm=1658942789&s=0c0a3530fe9287abce8139ca9b24cb18", "date": "01-01-2024", "number": 300 },
+    { "id": 6, "title": "Cougar", "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Mountain_Lion_in_Glacier_National_Park.jpg", "date": "01-01-2024", "number": 300 }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
